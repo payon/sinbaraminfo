@@ -1,0 +1,2 @@
+# sinbaraminfo
+GitHub Pages
